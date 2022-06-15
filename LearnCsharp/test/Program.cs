@@ -86,9 +86,13 @@
             {
                 Console.WriteLine($"你={you}，AI={ai}，平局");
             }
-            else if ((you == "剪刀" && ai == "石头")||(you == "石头"&&ai="布")||())
+            else if ((you == "剪刀" && ai == "石头")||(you == "石头" && ai == "布")||(you == "布" && ai == "剪刀"))
             {
-
+                Console.WriteLine($"你={you}，AI={ai}，你输了");
+            }
+            else
+            {
+                Console.WriteLine($"你={you}，AI={ai}，你赢了");
             }
 
             Console.ReadKey();
