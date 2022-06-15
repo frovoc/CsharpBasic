@@ -38,50 +38,58 @@
 
             //8、概率抽卡
             //抽卡游戏，40%概率获得黄忠，30%概率获得张飞，20%概率获得赵云，10%概率获得关羽。
-            Random random = new Random();
-            Console.WriteLine("请再按下任意键后开始抽奖");
-            Console.ReadKey();
-            int a = random.Next(0,100);
+            //Random random = new Random();
+            //Console.WriteLine("请再按下任意键后开始抽奖");
+            //Console.ReadKey();
+            //int a = random.Next(0,100);
             //random.next(0,100) 的实际取值范围是0-99共100个数字，建议将概率小的放前面判断，
-            //条件是依次判断的if else写法时，连续的顺序判断可以简化下列写法
+            //条件是依次判断的if else写法时，连续的顺序判断可以简化为下列写法
             //string name = "";
             //if (a < 10)
             //{
             //    name = "关羽";
             //}
-            //else if (a>=10 && a<30)
+            //else if (a < 30)
             //{
             //    name = "赵云";
             //}
-            //else if (a >= 30 && a<60)
+            //else if (a < 60)
             //{
             //    name = "张飞";
             //}
-            //else 
+            //else
             //{
             //    name = "黄忠";
             //}
             //Console.WriteLine($"a={a}");
             //Console.WriteLine($"\n恭喜您获得了{name}");
-            string name = "";
-            if (a < 10)
+
+            //9、剪刀石头布
+            Console.WriteLine("请选择您要出的剪刀、石头、布，按回车继续");
+            string you = Console.ReadLine();
+            string ai = "";
+            Random random = new Random();
+            int a = random.Next(0, 9);
+            if (a <3)
             {
-                name = "关羽";
+                ai = "剪刀";
             }
-            else if (a < 30)
+            else if (a<6)
             {
-                name = "赵云";
-            }
-            else if (a < 60)
-            {
-                name = "张飞";
+                ai = "石头";
             }
             else
             {
-                name = "黄忠";
+                ai = "布";
             }
-            Console.WriteLine($"a={a}");
-            Console.WriteLine($"\n恭喜您获得了{name}");
+            if(you == ai)
+            {
+                Console.WriteLine($"你={you}，AI={ai}，平局");
+            }
+            else if ((you == "剪刀" && ai == "石头")||(you == "石头"&&ai="布")||())
+            {
+
+            }
 
             Console.ReadKey();
         }
