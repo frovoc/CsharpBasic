@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\CsharpBasic\\LearnCsharp\\函数\\函数.csproj": {}
+    "C:\\Code\\Csharp\\LearnCsharp\\函数\\函数.csproj": {}
   },
   "projects": {
-    "D:\\Code\\CsharpBasic\\LearnCsharp\\函数\\函数.csproj": {
+    "C:\\Code\\Csharp\\LearnCsharp\\函数\\函数.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\CsharpBasic\\LearnCsharp\\函数\\函数.csproj",
+        "projectUniqueName": "C:\\Code\\Csharp\\LearnCsharp\\函数\\函数.csproj",
         "projectName": "函数",
-        "projectPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\函数\\函数.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\函数\\obj\\",
+        "projectPath": "C:\\Code\\Csharp\\LearnCsharp\\函数\\函数.csproj",
+        "packagesPath": "C:\\Users\\wang.rd\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\Csharp\\LearnCsharp\\函数\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wang.rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

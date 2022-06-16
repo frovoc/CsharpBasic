@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SckLO1+qjyKUjZ3q3aN+ebk0fQkaROzYvf4hryjDH5mu4O8bmeyd4AJWqmZAi9Op52EZUDHlejFlKUBNZJyJDQ==",
+  "dgSpecHash": "C4+DnKTv576SbzklHmYgmC1d7H00pDq1v69bGP2fxyPBmt1TtXwmBZ6S4akAde6CcOnZlZse0oXRlx0bWU8Etg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\CsharpBasic\\LearnCsharp\\test\\hello2.csproj",
+  "projectFilePath": "C:\\Code\\Csharp\\LearnCsharp\\test\\hello2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

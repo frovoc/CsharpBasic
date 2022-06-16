@@ -6,8 +6,8 @@
         {
             while (true)
             {
-                Console.WriteLine("请输入一个数字");
                 string input = Console.ReadLine();
+                input = input.Trim();
                 int num;
                 bool success =int.TryParse(input, out num);
                 if (!success)
@@ -43,10 +43,10 @@
             int  b = InputNum();
 
             Console.WriteLine($"a={a},b={b}");
-            //Console.WriteLine($"a+b={Add(a, b)}");
-            //Console.WriteLine($"a-b={Sub(a, b)}");
-            //Console.WriteLine($"a*b={Multiply(a, b)}");
-            //Console.WriteLine($"a/b={Divide(a, b)}");
+            Console.WriteLine($"a+b={Add(a, b)}");
+            Console.WriteLine($"a-b={Sub(a, b)}");
+            Console.WriteLine($"a*b={Multiply(a, b)}");
+            Console.WriteLine($"a/b={Divide(a, b)}");
         }
     }
 }
