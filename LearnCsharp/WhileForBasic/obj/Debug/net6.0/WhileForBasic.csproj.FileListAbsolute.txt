@@ -1,0 +1,15 @@
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\WhileForBasic.exe
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\WhileForBasic.deps.json
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\WhileForBasic.runtimeconfig.json
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\WhileForBasic.dll
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\WhileForBasic.pdb
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.csproj.AssemblyReference.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.AssemblyInfoInputs.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.AssemblyInfo.cs
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.csproj.CoreCompileInputs.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.dll
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\refint\WhileForBasic.dll
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.pdb
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\WhileForBasic.genruntimeconfig.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\ref\WhileForBasic.dll
