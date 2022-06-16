@@ -5,7 +5,11 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello", "hello\hello.csproj", "{CCB159B2-3DD7-4188-B59C-72E23FF161ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello2", "test\hello2.csproj", "{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello2", "test\hello2.csproj", "{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileForBasic", "WhileForBasic\WhileForBasic.csproj", "{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "函数", "函数\函数.csproj", "{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
