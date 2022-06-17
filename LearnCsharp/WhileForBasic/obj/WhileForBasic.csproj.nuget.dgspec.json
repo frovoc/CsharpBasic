@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Csharp\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj": {}
+    "D:\\Code\\CsharpBasic\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Csharp\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj": {
+    "D:\\Code\\CsharpBasic\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Csharp\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj",
+        "projectUniqueName": "D:\\Code\\CsharpBasic\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj",
         "projectName": "WhileForBasic",
-        "projectPath": "C:\\Code\\Csharp\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj",
-        "packagesPath": "C:\\Users\\wang.rd\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Csharp\\LearnCsharp\\WhileForBasic\\obj\\",
+        "projectPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\WhileForBasic\\WhileForBasic.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\WhileForBasic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wang.rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

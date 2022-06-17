@@ -1,0 +1,15 @@
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\while和for循环相关.exe
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\while和for循环相关.deps.json
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\while和for循环相关.runtimeconfig.json
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\while和for循环相关.dll
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\bin\Debug\net6.0\while和for循环相关.pdb
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.csproj.AssemblyReference.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.AssemblyInfoInputs.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.AssemblyInfo.cs
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.csproj.CoreCompileInputs.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.dll
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\refint\while和for循环相关.dll
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.pdb
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\while和for循环相关.genruntimeconfig.cache
+D:\Code\CsharpBasic\LearnCsharp\WhileForBasic\obj\Debug\net6.0\ref\while和for循环相关.dll

@@ -35,6 +35,7 @@
             //return (float)a / b;
             return a * 1.0f / b;
         }
+
         static void Main(string[] args)
         {
             Console.WriteLine("请输入a的值");

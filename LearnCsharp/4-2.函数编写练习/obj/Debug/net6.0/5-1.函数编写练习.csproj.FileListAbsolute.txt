@@ -1,0 +1,15 @@
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\bin\Debug\net6.0\5-1.函数编写练习.exe
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\bin\Debug\net6.0\5-1.函数编写练习.deps.json
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\bin\Debug\net6.0\5-1.函数编写练习.runtimeconfig.json
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\bin\Debug\net6.0\5-1.函数编写练习.dll
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\bin\Debug\net6.0\5-1.函数编写练习.pdb
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.csproj.AssemblyReference.cache
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.AssemblyInfoInputs.cache
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.AssemblyInfo.cs
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.csproj.CoreCompileInputs.cache
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.dll
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\refint\5-1.函数编写练习.dll
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.pdb
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\5-1.函数编写练习.genruntimeconfig.cache
+D:\Code\CsharpBasic\LearnCsharp\4-2.函数编写练习\obj\Debug\net6.0\ref\5-1.函数编写练习.dll

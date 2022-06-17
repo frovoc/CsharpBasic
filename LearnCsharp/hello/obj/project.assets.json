@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wang.rd\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Csharp\\LearnCsharp\\hello\\hello.csproj",
-      "projectName": "hello",
-      "projectPath": "C:\\Code\\Csharp\\LearnCsharp\\hello\\hello.csproj",
-      "packagesPath": "C:\\Users\\wang.rd\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Csharp\\LearnCsharp\\hello\\obj\\",
+      "projectUniqueName": "D:\\Code\\CsharpBasic\\LearnCsharp\\hello\\1.hello.csproj",
+      "projectName": "1.hello",
+      "projectPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\hello\\1.hello.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\hello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wang.rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello", "hello\hello.csproj", "{CCB159B2-3DD7-4188-B59C-72E23FF161ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.hello", "hello\1.hello.csproj", "{CCB159B2-3DD7-4188-B59C-72E23FF161ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello2", "test\hello2.csproj", "{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.hello2", "test\2.hello2.csproj", "{2A570334-C6CB-47B3-B8D7-9D77E6C1B5A6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForBasic", "WhileForBasic\WhileForBasic.csproj", "{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.while和for循环相关", "WhileForBasic\3.while和for循环相关.csproj", "{43CB7777-C06B-4ADC-8D91-7C5CA3D751E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "函数", "函数\函数.csproj", "{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.函数", "函数\4.函数.csproj", "{2959E5B7-B913-4530-B6F7-E6BC9DCAF060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "猜数字游戏函数改写版", "猜数字游戏函数改写版\猜数字游戏函数改写版.csproj", "{F3C1521B-32F7-441D-824D-ACDC9F0F6EAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-1.猜数字游戏函数改写版", "猜数字游戏函数改写版\4-1.猜数字游戏函数改写版.csproj", "{F3C1521B-32F7-441D-824D-ACDC9F0F6EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.数组", "5.数组\5.数组.csproj", "{7E0B8230-AA7A-4937-8285-0821733BFA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-1.函数编写练习", "4-2.函数编写练习\5-1.函数编写练习.csproj", "{611AD57B-A35A-44B9-A458-B0312C49DE47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{F3C1521B-32F7-441D-824D-ACDC9F0F6EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C1521B-32F7-441D-824D-ACDC9F0F6EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C1521B-32F7-441D-824D-ACDC9F0F6EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0B8230-AA7A-4937-8285-0821733BFA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0B8230-AA7A-4937-8285-0821733BFA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0B8230-AA7A-4937-8285-0821733BFA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0B8230-AA7A-4937-8285-0821733BFA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611AD57B-A35A-44B9-A458-B0312C49DE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611AD57B-A35A-44B9-A458-B0312C49DE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611AD57B-A35A-44B9-A458-B0312C49DE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611AD57B-A35A-44B9-A458-B0312C49DE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

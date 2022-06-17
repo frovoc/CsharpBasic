@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Csharp\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj": {}
+    "D:\\Code\\CsharpBasic\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Csharp\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj": {
+    "D:\\Code\\CsharpBasic\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Csharp\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj",
+        "projectUniqueName": "D:\\Code\\CsharpBasic\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj",
         "projectName": "猜数字游戏函数改写版",
-        "projectPath": "C:\\Code\\Csharp\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj",
-        "packagesPath": "C:\\Users\\wang.rd\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Csharp\\LearnCsharp\\猜数字游戏函数改写版\\obj\\",
+        "projectPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\猜数字游戏函数改写版\\猜数字游戏函数改写版.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\CsharpBasic\\LearnCsharp\\猜数字游戏函数改写版\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wang.rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

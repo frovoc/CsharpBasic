@@ -1,4 +1,4 @@
-﻿namespace WhileForBasic
+﻿namespace while和for循环相关
 {
     internal class Program
     {
@@ -95,6 +95,15 @@
             //    for (int b = 1; b <= col; b++)
             //    {
             //        Console.Write($"{a}_{b}\t");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //for循环打印99乘法表
+            //for (int a = 1; a <= 9; a++)
+            //{
+            //    for (int b = 1; b <= 9; b++)
+            //    {
+            //        Console.Write($"{a}*{b}={a*b}\t");
             //    }
             //    Console.WriteLine();
             //}
