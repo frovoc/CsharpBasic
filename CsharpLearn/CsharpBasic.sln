@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1.Hello", "1-1.Hello\1-1.Hello.csproj", "{9937A6C8-3916-49BC-B003-E1D8BBE04799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-1.Hello", "1-1.Hello\1-1.Hello.csproj", "{9937A6C8-3916-49BC-B003-E1D8BBE04799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-2.If和简单的while循环", "1-2.If和简单的while循环\1-2.If和简单的while循环.csproj", "{A73EE04A-4610-43AD-B4AE-9C1F53D108E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-2.If和简单的while循环", "1-2.If和简单的while循环\1-2.If和简单的while循环.csproj", "{A73EE04A-4610-43AD-B4AE-9C1F53D108E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-3.While和For循环", "1-3.While和For循环\1-3.While和For循环.csproj", "{D0F6ECA8-72D7-4257-84BA-EEBCA7DE94DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-3.While和For循环", "1-3.While和For循环\1-3.While和For循环.csproj", "{D0F6ECA8-72D7-4257-84BA-EEBCA7DE94DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4.函数基础", "1-4.函数基础\1-4.函数基础.csproj", "{6BDDE133-25BB-433E-9307-8049A710B161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-4.函数基础", "1-4.函数基础\1-4.函数基础.csproj", "{6BDDE133-25BB-433E-9307-8049A710B161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4-1.猜数字游戏函数改写版", "1-4-1.猜数字游戏函数改写版\1-4-1.猜数字游戏函数改写版.csproj", "{4C756A3E-4740-4D27-AEC5-0E681C7080B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-4-1.猜数字游戏函数改写版", "1-4-1.猜数字游戏函数改写版\1-4-1.猜数字游戏函数改写版.csproj", "{4C756A3E-4740-4D27-AEC5-0E681C7080B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5-1.数组处理函数练习", "1-5-1.数组处理函数练习\1-5-1.数组处理函数练习.csproj", "{4B500685-629F-401E-9598-0DEB2445DAB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-5-1.数组处理函数练习", "1-5-1.数组处理函数练习\1-5-1.数组处理函数练习.csproj", "{4B500685-629F-401E-9598-0DEB2445DAB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5.数组基础", "1-5.数组基础\1-5.数组基础.csproj", "{E7908F80-6761-4E2A-A9E9-F28CA3F5D12E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-5.数组基础", "1-5.数组基础\1-5.数组基础.csproj", "{E7908F80-6761-4E2A-A9E9-F28CA3F5D12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5-2.冒泡排序算法", "1-5-2.冒泡排序算法\1-5-2.冒泡排序算法.csproj", "{9FDAFA1A-2121-40FE-81C9-65788D3D08EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E7908F80-6761-4E2A-A9E9-F28CA3F5D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7908F80-6761-4E2A-A9E9-F28CA3F5D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7908F80-6761-4E2A-A9E9-F28CA3F5D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDAFA1A-2121-40FE-81C9-65788D3D08EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDAFA1A-2121-40FE-81C9-65788D3D08EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDAFA1A-2121-40FE-81C9-65788D3D08EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDAFA1A-2121-40FE-81C9-65788D3D08EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
