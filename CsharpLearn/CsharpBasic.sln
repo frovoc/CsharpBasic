@@ -19,11 +19,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-5.数组基础", "1-5.数
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-5-2.冒泡排序算法", "1-5-2.冒泡排序算法\1-5-2.冒泡排序算法.csproj", "{9FDAFA1A-2121-40FE-81C9-65788D3D08EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-6.函数生命周期和引用", "1-6.函数生命周期和引用\1-6.函数生命周期和引用.csproj", "{83A22932-49ED-422C-9301-5E6CF0F1679B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-6.函数生命周期和引用", "1-6.函数生命周期和引用\1-6.函数生命周期和引用.csproj", "{83A22932-49ED-422C-9301-5E6CF0F1679B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-7.二维数组", "1-7.二维数组\1-7.二维数组.csproj", "{5422F734-5D39-4FD9-8512-681751371C3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-7.二维数组", "1-7.二维数组\1-7.二维数组.csproj", "{5422F734-5D39-4FD9-8512-681751371C3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-7-1.二维数组作业打印火车票", "1-7-1.二维数组作业打印火车票\1-7-1.二维数组作业打印火车票.csproj", "{47CEB209-6617-4F7A-9D7C-8C88AE7E0642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-7-1.二维数组作业打印火车票", "1-7-1.二维数组作业打印火车票\1-7-1.二维数组作业打印火车票.csproj", "{47CEB209-6617-4F7A-9D7C-8C88AE7E0642}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-7-2.二维数组作业主角移动", "1-7-2.二维数组作业主角移动\1-7-2.二维数组作业主角移动.csproj", "{046A5BA7-4A84-462A-918C-C37ABAC68CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-8.Switch枚举", "1-8.Switch枚举\1-8.Switch枚举.csproj", "{B885FB68-10C3-4DEE-9FC2-DEF1BD8AF2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-8-1.Switch实现石头剪刀布", "1-8-1.Switch实现石头剪刀布\1-8-1.Switch实现石头剪刀布.csproj", "{45479937-BD0A-4F96-9D26-CE78B2DB0FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-8-2.交通灯模拟_状态机", "1-8-2.交通灯模拟_状态机\1-8-2.交通灯模拟_状态机.csproj", "{E778874E-3730-43EA-9A48-25D81506D9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1.面向对象", "2-1.面向对象\2-1.面向对象.csproj", "{DFF09701-9A8E-493E-95B0-A47D78AD4234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1-1.面向对象写法模拟水壶", "2-1-1.面向对象写法模拟水壶\2-1-1.面向对象写法模拟水壶.csproj", "{521FD6A7-C132-4CD0-AC2B-328736BA9DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1-2.拳击手对战", "2-1-2.拳击手对战\2-1-2.拳击手对战.csproj", "{9ED4E7A7-80D6-4A21-8107-229AB88B52C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1-3.属性写法简化对战", "2-1-3.属性写法简化对战\2-1-3.属性写法简化对战.csproj", "{21CDF69B-C3C4-4AD1-8CF1-2BADF78CCBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2-1.属性与单例", "2-2-1.属性与单例\2-2-1.属性与单例.csproj", "{EFE1A4FA-9732-4B1E-A931-852C53B8177A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +93,42 @@ Global
 		{47CEB209-6617-4F7A-9D7C-8C88AE7E0642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47CEB209-6617-4F7A-9D7C-8C88AE7E0642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47CEB209-6617-4F7A-9D7C-8C88AE7E0642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046A5BA7-4A84-462A-918C-C37ABAC68CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046A5BA7-4A84-462A-918C-C37ABAC68CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046A5BA7-4A84-462A-918C-C37ABAC68CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046A5BA7-4A84-462A-918C-C37ABAC68CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B885FB68-10C3-4DEE-9FC2-DEF1BD8AF2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B885FB68-10C3-4DEE-9FC2-DEF1BD8AF2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B885FB68-10C3-4DEE-9FC2-DEF1BD8AF2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B885FB68-10C3-4DEE-9FC2-DEF1BD8AF2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45479937-BD0A-4F96-9D26-CE78B2DB0FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45479937-BD0A-4F96-9D26-CE78B2DB0FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45479937-BD0A-4F96-9D26-CE78B2DB0FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45479937-BD0A-4F96-9D26-CE78B2DB0FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E778874E-3730-43EA-9A48-25D81506D9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E778874E-3730-43EA-9A48-25D81506D9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E778874E-3730-43EA-9A48-25D81506D9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E778874E-3730-43EA-9A48-25D81506D9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF09701-9A8E-493E-95B0-A47D78AD4234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF09701-9A8E-493E-95B0-A47D78AD4234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF09701-9A8E-493E-95B0-A47D78AD4234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF09701-9A8E-493E-95B0-A47D78AD4234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521FD6A7-C132-4CD0-AC2B-328736BA9DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521FD6A7-C132-4CD0-AC2B-328736BA9DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521FD6A7-C132-4CD0-AC2B-328736BA9DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521FD6A7-C132-4CD0-AC2B-328736BA9DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED4E7A7-80D6-4A21-8107-229AB88B52C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED4E7A7-80D6-4A21-8107-229AB88B52C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED4E7A7-80D6-4A21-8107-229AB88B52C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED4E7A7-80D6-4A21-8107-229AB88B52C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CDF69B-C3C4-4AD1-8CF1-2BADF78CCBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CDF69B-C3C4-4AD1-8CF1-2BADF78CCBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CDF69B-C3C4-4AD1-8CF1-2BADF78CCBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CDF69B-C3C4-4AD1-8CF1-2BADF78CCBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE1A4FA-9732-4B1E-A931-852C53B8177A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE1A4FA-9732-4B1E-A931-852C53B8177A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE1A4FA-9732-4B1E-A931-852C53B8177A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE1A4FA-9732-4B1E-A931-852C53B8177A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

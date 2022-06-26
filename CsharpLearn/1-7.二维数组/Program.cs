@@ -32,7 +32,7 @@
                                       {9, 10, 11, 12, 13, 14, 15, 16} };
             int[,] array2d = new int[4, 5];
             Print2DArray(array2d);
-            Generate2DArray(array2dj);
+            Generate2DArray(array2d);
             Print2DArray(array2d);
         }
     }

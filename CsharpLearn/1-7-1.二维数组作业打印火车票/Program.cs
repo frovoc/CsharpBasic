@@ -28,6 +28,7 @@
                 if (inputRow>2)
                 {
                     Console.WriteLine("请输入正确的行数");
+                    continue ;
                 }
                 return inputRow;
             }
@@ -40,12 +41,15 @@
                 if (inputCol > 3)
                 {
                     Console.WriteLine("请输入正确的列数");
+                    continue;
                 }
                 return inputCol;
             }
         }
         static void Print2DArray(bool[,] a2d)
         {
+            Console.WriteLine();
+            Console.WriteLine("当前车票信息如下");
             for (int i = 0; i < a2d.GetLength(0); i++)
             {
                 for (int j = 0; j < a2d.GetLength(1); j++)
@@ -78,23 +82,30 @@
         {
             bool[,] tickets = new bool[3, 4];
             bool BuyAgain= true;
+            Generate2DArray(tickets);
             while (BuyAgain)
             {
-                Generate2DArray(tickets);
                 Print2DArray(tickets);
                 Console.WriteLine("您想购买第几行车票？");
                 int i = inputRow();
                 Console.WriteLine("您想购买第几列车票？");
                 int j = inputCol();
+                if (!tickets[i,j])
+                {
+                    Console.WriteLine("当前位置已购买请重新输入");
+                    continue;
+                }
                 tickets[i, j] = false;
                 Print2DArray(tickets);
-                Console.WriteLine("是否继续购买");
+                Console.WriteLine();
+                Console.WriteLine("请输入y继续购买");
                 string buyagain = Console.ReadLine().Trim();
-                if (true)
+                if (buyagain == "y")
                 {
-
+                    continue;
                 }
-
+                Console.WriteLine("已退出");
+                break;
             }
         }
     }
